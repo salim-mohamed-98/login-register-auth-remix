@@ -1213,10 +1213,6 @@ input[type="range"]::-ms-fill-lower {
   height: 2.5rem;
 }
 
-.h-14 {
-  height: 3.5rem;
-}
-
 .h-5 {
   height: 1.25rem;
 }
@@ -1450,11 +1446,6 @@ input[type="range"]::-ms-fill-lower {
 .bg-gray-800 {
   --tw-bg-opacity: 1;
   background-color: rgb(31 41 55 / var(--tw-bg-opacity));
-}
-
-.bg-indigo-600 {
-  --tw-bg-opacity: 1;
-  background-color: rgb(88 80 236 / var(--tw-bg-opacity));
 }
 
 .bg-slate-100 {
@@ -1797,11 +1788,6 @@ input[type="range"]::-ms-fill-lower {
   background-color: rgb(63 131 248 / var(--tw-bg-opacity));
 }
 
-.hover\:bg-indigo-500:hover {
-  --tw-bg-opacity: 1;
-  background-color: rgb(104 117 245 / var(--tw-bg-opacity));
-}
-
 .hover\:text-blue-500:hover {
   --tw-text-opacity: 1;
   color: rgb(63 131 248 / var(--tw-text-opacity));
@@ -1838,11 +1824,6 @@ input[type="range"]::-ms-fill-lower {
   --tw-ring-color: rgb(28 100 242 / var(--tw-ring-opacity));
 }
 
-.focus\:ring-indigo-600:focus {
-  --tw-ring-opacity: 1;
-  --tw-ring-color: rgb(88 80 236 / var(--tw-ring-opacity));
-}
-
 .focus\:ring-white:focus {
   --tw-ring-opacity: 1;
   --tw-ring-color: rgb(255 255 255 / var(--tw-ring-opacity));
@@ -1874,10 +1855,6 @@ input[type="range"]::-ms-fill-lower {
 
 .focus-visible\:outline-blue-600:focus-visible {
   outline-color: #1C64F2;
-}
-
-.focus-visible\:outline-indigo-600:focus-visible {
-  outline-color: #5850EC;
 }
 
 @media (min-width: 640px) {
