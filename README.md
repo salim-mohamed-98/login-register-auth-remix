@@ -1,6 +1,8 @@
-# Welcome to Remix!
+# Description
+I created a set of login and registration pages to refine my web development skills, focusing on a fundamental aspect of most applications. This project allowed me to practice and enhance my abilities in creating essential user authentication interfaces, a common requirement in web development.
 
-- [Remix Docs](https://remix.run/docs)
+![image preview](https://salim-portfolio-kappa.vercel.app/images/mockup_login_register.png)
+
 
 ## Development
 
@@ -12,27 +14,3 @@ npm run dev
 
 This starts your app in development mode, rebuilding assets on file changes.
 
-## Deployment
-
-First, build your app for production:
-
-```sh
-npm run build
-```
-
-Then run the app in production mode:
-
-```sh
-npm start
-```
-
-Now you'll need to pick a host to deploy it to.
-
-### DIY
-
-If you're familiar with deploying node applications, the built-in Remix app server is production-ready.
-
-Make sure to deploy the output of `remix build`
-
-- `build/`
-- `public/build/`
